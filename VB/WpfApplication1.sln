@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WpfApplication1", "WpfApplication1\WpfApplication1.vbproj", "{CCEA185A-A881-4A6E-9E42-4416ED3F511D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEA185A-A881-4A6E-9E42-4416ED3F511D}.Debug|x86.ActiveCfg = Debug|x86
+		{CCEA185A-A881-4A6E-9E42-4416ED3F511D}.Debug|x86.Build.0 = Debug|x86
+		{CCEA185A-A881-4A6E-9E42-4416ED3F511D}.Release|x86.ActiveCfg = Release|x86
+		{CCEA185A-A881-4A6E-9E42-4416ED3F511D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
